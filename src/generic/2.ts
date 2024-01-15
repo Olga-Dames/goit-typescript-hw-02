@@ -21,3 +21,17 @@ function compare<T extends AllType>(top: Pick<T, 'name' | 'color'>, bottom: Pick
 }
 
 export { };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
